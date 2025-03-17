@@ -30,20 +30,6 @@ PokemonDex เป็นแอปพลิเคชัน React แบบง่�
    ```
 4. เปิดแอปพลิเคชันในเบราว์เซอร์ที่ `http://localhost:3000/`.
 
-## โครงสร้างของโปรเจค
-```
-PokemonDex/
-│── src/
-│   ├── pages/
-│   │   ├── PokemonDex.jsx
-│   ├── style/
-│   │   ├── PokemonDex.css
-│   ├── App.js
-│   ├── index.js
-│── package.json
-│── README.md
-```
-
 ## เทคโนโลยีที่ใช้
 - React
 - Axios (สำหรับดึงข้อมูลจาก PokeAPI)
