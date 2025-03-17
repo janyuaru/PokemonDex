@@ -17,7 +17,7 @@ PokemonDex เป็นแอปพลิเคชัน React แบบง่�
 ### ขั้นตอนการติดตั้ง
 1. โคลนโปรเจค:
    ```sh
-   git clone https://github.com/your-username/PokemonDex.git
+   git clone https://github.com/janyuaru/PokemonDex.git
    cd PokemonDex
    ```
 2. ติดตั้งแพ็กเกจที่จำเป็น:
